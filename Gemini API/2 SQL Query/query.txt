@@ -1,0 +1,9 @@
+How many white color Levi's t shirts we have available?
+
+How much is the price of all white color levi t shirts?
+
+How much is the price of the inventory for all small size t-shirts?
+
+If we have to sell all the Van Heuson T-shirts today with discounts applied. How much revenue our store will generate (post discounts)?
+
+How much revenue  our store will generate by selling all Van Heuson TShirts without discount?

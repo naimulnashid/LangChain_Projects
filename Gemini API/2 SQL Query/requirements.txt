@@ -1,0 +1,14 @@
+chromadb
+faiss-cpu
+google-generativeai
+langchain_google_genai
+langchain_experimental
+langchain
+langchain-community
+mysql-connector-python
+protobuf
+pymysql
+python-dotenv
+sentence-transformers
+streamlit
+tiktoken
