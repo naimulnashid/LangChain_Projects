@@ -27,3 +27,12 @@
 
 - **Interactive Application Deployment**:
   - Developed an interactive interface using the **Streamlit** framework.
+
+---
+
+### Watch the Demo
+Check out the video walkthrough of this project:  
+[1 CSV Query](https://www.youtube.com/watch?v=h75u9rPm074&list=PLRI73rbd0JosYEiZA49uZDOTkXZgeOrpG&index=12)
+[2 SQL Query](https://www.youtube.com/watch?v=XAwvaj48y_Q&list=PLRI73rbd0JosYEiZA49uZDOTkXZgeOrpG&index=13)
+[3 PDF Query](https://www.youtube.com/watch?v=pO9Evp1qQKo&list=PLRI73rbd0JosYEiZA49uZDOTkXZgeOrpG&index=14)
+[4 ATS Query](https://www.youtube.com/watch?v=Rm_VkMAFJpw&list=PLRI73rbd0JosYEiZA49uZDOTkXZgeOrpG&index=15)
