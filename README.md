@@ -1,9 +1,3 @@
-
-Here’s the formatted content for your GitHub README file:
-
-markdown
-Copy
-Edit
 # LangChain Projects
 
 1. **CSV Query**: Provides coherent answers to frequently asked questions using CSV files as a knowledge base.
